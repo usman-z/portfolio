@@ -25,12 +25,19 @@
   margin-top: 1%;
 }
 #imgGit{
-  width: 80%;
+  width: 70%;
   margin-left: 0%;
+  margin-bottom: 2%;
 }
 #imgLinked{
+  width: 80%;
+  margin-left: 5%;
+  margin-bottom: 0;
+}
+#imgE{
   width: 90%;
   margin-left: 10%;
+  margin-bottom: 0; 
 }
 
 #skill{
@@ -43,6 +50,11 @@
 #img{
   width: 15%;
   margin-left: 2%;
+}
+#imgjs{
+  width: 15%;
+  margin-left: 2%;
+  margin-top: 1%;
 }
 #imgG{
   width: 10%;

@@ -27,17 +27,17 @@
 #imgGit{
   width: 70%;
   margin-left: 0%;
-  margin-bottom: 2%;
+  margin-top: 0%;
 }
 #imgLinked{
   width: 80%;
   margin-left: 5%;
-  margin-bottom: 0;
+  margin-top: 2%;
 }
 #imgE{
-  width: 90%;
+  width: 94%;
   margin-left: 10%;
-  margin-bottom: 0; 
+  margin-top: -12%; 
 }
 
 #skill{
